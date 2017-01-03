@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class LeagueManagerApplication {
 
 	public static void main(String[] args) {
+		// testing git
 		SpringApplication.run(LeagueManagerApplication.class, args);
 	}
 }
